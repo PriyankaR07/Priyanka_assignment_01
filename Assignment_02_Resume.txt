@@ -1,0 +1,53 @@
+Resume
+
+Priyanka R
+MCA
+Email: ragpri12345@gmail.com
+Phone: 7899109589
+
+Objective:
+I'm a hard working person and ready to take uo any challenges and duties assigned to me
+
+Education:
+MCA (Pursuing)
+Jan 2024-Sep 2025
+Jyoti Nivas College Autonomous
+
+BCA
+July 2019- Sep 2022
+Bishop Cotton Women's Christian College(BCU), Bangalore
+
+PUC
+May 2017 - Mar 2019
+St.Michael's Pre University College, Bangalore
+
+SSLC
+Apr 2016 - Mar 2017
+Mitralaya Girl's High School, Bangalore
+
+Skills
+Web technology: HTML, CSS & Javascript
+Data Structures & Algorithms
+C, C++, Java, Python,VB.Net,Tally ERP9
+Microsoft Office
+
+Projects:
+Title: Online Air Line Reservation
+Technology:VB.Net
+Tool:Visual Studio
+
+Title:Online Shopping
+Technology:Python,sqlite,HTML,CSS,Javascript
+Tool:Pychram
+
+Languages known:
+English
+Tamil
+Kannada
+Hindi
+
+Certificates:
+Tally ERP9
+NASSCOM(IT-ITeS SSC)
+Declaration:
+I hereby declare that above furnished particulars are true to the best of my knowledge and belief.
